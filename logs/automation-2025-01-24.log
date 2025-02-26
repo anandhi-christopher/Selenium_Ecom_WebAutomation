@@ -1,0 +1,45 @@
+2025-01-24 21:37:57.102 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE RegistrationTest.verifyRegistration()[pri:0, instance:tutorialNinja.testCases.RegistrationTest@604c5de8] 1121084785
+2025-01-24 21:37:57.107 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 21:37:57.108 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 21:37:57.108 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 21:37:57.108 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:57.970 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anand\eclipse-workspace\TutorialNinja\groups.xml"
+2025-01-24 22:02:58.257 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.setup(java.lang.String)[pri:0, instance:null] -910644323
+2025-01-24 22:02:58.259 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 22:02:58.263 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 22:02:58.264 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 22:02:58.264 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:58.266 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] 1408650054
+2025-01-24 22:02:58.266 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 22:02:58.267 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 22:02:58.267 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 22:02:58.267 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:58.273 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.setup(java.lang.String)[pri:0, instance:null] -910644323
+2025-01-24 22:02:58.273 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 22:02:58.273 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 22:02:58.273 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] 1408650054
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 22:02:58.276 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:58.288 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE RegistrationTest.verifyRegistration()[pri:0, instance:tutorialNinja.testCases.RegistrationTest@604c5de8] 1121084785
+2025-01-24 22:02:58.288 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE LoginTest.verifyLogin()[pri:0, instance:tutorialNinja.testCases.LoginTest@4535b6d5] -1862697462
+2025-01-24 22:02:58.289 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-01-24 22:02:58.293 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-01-24 22:02:58.295 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-01-24 22:02:58.295 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-01-24 22:02:58.528 [main] INFO  tutorialNinja.testCases.RegistrationTest - ***Driver Setup ***
+2025-01-24 22:03:03.453 [main] INFO  tutorialNinja.testCases.RegistrationTest - *****Begin User registration*****
+2025-01-24 22:03:03.467 [main] INFO  tutorialNinja.testCases.RegistrationTest - Click on Account
+2025-01-24 22:03:03.812 [main] INFO  tutorialNinja.testCases.RegistrationTest - Click on Register
+2025-01-24 22:03:04.553 [main] INFO  tutorialNinja.testCases.RegistrationTest - Enter User Information for registration
+2025-01-24 22:03:05.021 [main] INFO  tutorialNinja.testCases.RegistrationTest - Accept privacy Statement
+2025-01-24 22:03:05.084 [main] INFO  tutorialNinja.testCases.RegistrationTest - click Continue to User registration
+2025-01-24 22:03:06.117 [main] INFO  tutorialNinja.testCases.RegistrationTest - Verify Registration confirmation
+2025-01-24 22:03:06.321 [main] INFO  tutorialNinja.testCases.LoginTest - ***Driver Setup ***
+2025-01-24 22:03:10.794 [main] INFO  tutorialNinja.testCases.LoginTest - ***Begin User Account Login verify Account and Logout***
+2025-01-24 22:03:10.801 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on Myaccount
+2025-01-24 22:03:10.968 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on MyLogin
+2025-01-24 22:03:11.481 [main] INFO  tutorialNinja.testCases.LoginTest - Entered user email

@@ -1,0 +1,16 @@
+2025-02-23 15:27:05.723 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-23 15:27:05.734 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE LoginTest.verifyLogin()[pri:0, instance:tutorialNinja.testCases.LoginTest@1fdf1c5] 1304541434
+2025-02-23 15:27:05.734 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-23 15:27:05.734 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-23 15:27:05.734 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-23 15:27:05.734 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-23 15:27:05.994 [main] INFO  tutorialNinja.testCases.LoginTest - ***Driver Setup ***
+2025-02-23 15:27:13.243 [main] INFO  tutorialNinja.testCases.LoginTest - ***Begin User Account Login verify Account and Logout***
+2025-02-23 15:27:13.271 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on Myaccount
+2025-02-23 15:27:13.451 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on MyLogin
+2025-02-23 15:27:14.408 [main] INFO  tutorialNinja.testCases.LoginTest - Entered user email
+2025-02-23 15:27:14.525 [main] INFO  tutorialNinja.testCases.LoginTest - Entered user password
+2025-02-23 15:27:14.597 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked login
+2025-02-23 15:27:15.539 [main] INFO  tutorialNinja.testCases.LoginTest - Verify Account Login
+2025-02-23 15:27:15.572 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked Logout
+2025-02-23 15:27:16.262 [main] INFO  tutorialNinja.testCases.LoginTest - ***Account logout successful***

@@ -1,0 +1,6 @@
+tutorialNinja\testCases\LoginTest.class
+tutorialNinja\Utilities\TestTransformer.class
+tutorialNinja\testCases\RegistrationTest.class
+tutorialNinja\BaseTests\BaseTest.class
+tutorialNinja\Utilities\ExtentReporterNG.class
+tutorialNinja\Utilities\Retry.class

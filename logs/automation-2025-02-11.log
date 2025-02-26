@@ -1,0 +1,47 @@
+2025-02-10 12:16:23.452 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-10 12:16:23.452 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-10 12:16:23.452 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-10 12:16:23.452 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] 1408650054
+2025-02-10 12:16:23.452 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-10 12:16:23.460 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-10 12:16:23.460 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-10 12:16:23.460 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-10 12:16:23.467 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE LoginTest.verifyLogin()[pri:0, instance:tutorialNinja.testCases.LoginTest@13f95696] 1606229451
+2025-02-10 12:16:23.467 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-10 12:16:23.467 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-10 12:16:23.467 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-10 12:16:23.467 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-10 12:16:23.701 [main] INFO  tutorialNinja.testCases.LoginTest - ***Driver Setup ***
+2025-02-10 12:16:53.171 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE LoginTest.verifyLogin()[pri:0, instance:tutorialNinja.testCases.LoginTest@13f95696] 1606229451
+2025-02-10 12:16:53.171 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-10 12:16:53.171 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-10 12:16:53.171 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-10 12:16:53.171 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-11 13:06:58.554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anand\eclipse-workspace\TutorialNinja\master.xml"
+2025-02-11 13:06:58.811 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.setup(java.lang.String)[pri:0, instance:null] -910644323
+2025-02-11 13:06:58.811 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-11 13:06:58.818 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.tearDown()[pri:0, instance:null] 1408650054
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-11 13:06:58.819 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-11 13:06:58.822 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE LoginTest.verifyLogin()[pri:0, instance:tutorialNinja.testCases.LoginTest@13f95696] 1606229451
+2025-02-11 13:06:58.822 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2025-02-11 13:06:58.822 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2025-02-11 13:06:58.822 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2025-02-11 13:06:58.822 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2025-02-11 13:06:59.059 [main] INFO  tutorialNinja.testCases.LoginTest - ***Driver Setup ***
+2025-02-11 13:07:05.012 [main] INFO  tutorialNinja.testCases.LoginTest - ***Begin User Account Login verify Account and Logout***
+2025-02-11 13:07:05.040 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on Myaccount
+2025-02-11 13:07:05.121 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked on MyLogin
+2025-02-11 13:07:05.578 [main] INFO  tutorialNinja.testCases.LoginTest - Entered user email
+2025-02-11 13:07:05.695 [main] INFO  tutorialNinja.testCases.LoginTest - Entered user password
+2025-02-11 13:07:05.767 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked login
+2025-02-11 13:07:06.892 [main] INFO  tutorialNinja.testCases.LoginTest - Verify Account Login
+2025-02-11 13:07:06.927 [main] INFO  tutorialNinja.testCases.LoginTest - Clicked Logout
+2025-02-11 13:07:07.643 [main] INFO  tutorialNinja.testCases.LoginTest - ***Account logout successful***
+2025-02-11 13:10:35.558 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anand\eclipse-workspace\TutorialNinja\master.xml"
+2025-02-11 13:10:35.768 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.setup(java.lang.String)[pri:0, instance:null] -910644323
